@@ -1,0 +1,10 @@
+Eng = float(84)
+Bus = float(88)
+Intro_comp = float(75)
+Comp_pro = float(78)
+
+print('===========Your Score')
+print('Foundation English :',Eng)
+print('General Business :',Bus)
+print('Introduction to Computer System : ',Intro_comp)
+print('Computer Programming : ',Comp_pro)
